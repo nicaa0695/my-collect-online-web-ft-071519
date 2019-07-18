@@ -4,4 +4,4 @@ def my_collect(array)
   yield[i]
   puts #{i.split(" ".first}
 end
-
+end
