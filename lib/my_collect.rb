@@ -1,6 +1,6 @@
 def my_collect(array)
   i = 0 
-  while i < 0 |name|
+  while i < 0 |i|
   yield[i]
   new_collection = []
   puts #{i.split(" ".first}
