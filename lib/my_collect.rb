@@ -4,6 +4,7 @@ def my_collect(array)
   yield[i]
   new_collection = []
   puts #{i.split(" ".first}
+  lang.upcase
 end
 new_collection
 end
